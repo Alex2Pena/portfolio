@@ -1,5 +1,14 @@
 /* Header */
-
+#mHeader{
+position: absolute;
+top: 20px;
+right: 60px;
+color: white;
+text-align: right;
+}
+section#top.one.dark.cover{
+	padding: 0;
+}
 #header {
 	display: -moz-flex;
 	display: -webkit-flex;
